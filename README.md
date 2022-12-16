@@ -11,6 +11,7 @@ in second page choose format quality that you want place that you want to store 
 
 ![2](https://user-images.githubusercontent.com/82014996/208050784-5dbd352b-07bb-4f61-abb8-3a18e59dd871.jpg)
 
+you can check downloading progress in firs.py terminal
 Thecnicaly we have to .py file (first.py and final.py ) they are realated to each other and first.py comes from first page and final.py cames from second page
 for running project we have to run first.py
 
